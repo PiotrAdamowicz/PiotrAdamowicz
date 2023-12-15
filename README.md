@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PiotrAdamowicz
 - 👀 I’m interested in Origami, In-line skating, music and urban fantasy books.
-- 🌱 I’m currently learning Tailwind and Vue3.
-- 💞️ I’m looking to collaborate on any proffesional front-end project.
+- 🌱 I’m currently learning React Native.
+- 💞️ I’m looking to collaborate on any professional front-end project.
 - 📫 How to reach me: adamowicz.piotr2@gmail.com
 
 <!---
